@@ -1,0 +1,51 @@
+﻿<Window x:Class="прилажухаWPF.Panel"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:прилажухаWPF"
+        mc:Ignorable="d"
+        Title="Panel" Height="468" Width="229.508">
+    <Grid>
+        <StackPanel x:Name="Grid2"
+                Width="213"
+                MinWidth="5"
+                HorizontalAlignment="Center"
+                RenderTransformOrigin="1.549,0.487"
+                VerticalAlignment="Center">
+
+            <Button x:Name="UPkompany" Width="172"
+                Margin="10,10,20,0"
+                Content="Таблица 'UPkompany'"
+                FontSize="14" Height="47" Click="UPkompany_Click" IsCancel="True" />
+
+            <Button x:Name="UPklient" Width="172"
+                Margin="10,10,20,0"
+                Content="Таблица 'UPklient'"
+                FontSize="14" Height="47" Click="UPklient_Click"  />
+
+            <Button x:Name="UPpostavshik" Width="172"
+                Margin="10,10,20,0"
+                Content="Таблица 'UPpostavshik'"
+                FontSize="14" Height="47" Click="UPpostavshik_Click" />
+
+            <Button x:Name="UPvidjanra" Width="172"
+                Margin="10,10,20,0"
+                Content="Таблица 'UPvidjanra'"
+                FontSize="14" Height="47" Click="UPvidjanra_Click" />
+            <Button x:Name="UPvidnositelya" Width="172"
+                Margin="10,10,20,0"
+                Content="Таблица 'UPvidnositelya'"
+                FontSize="14" Height="47" Click="UPvidnositelya_Click" />
+            <Button x:Name="UPzakaz" Width="172"
+                Margin="10,10,20,0"
+                Content="Таблица 'UPzakaz'"
+                FontSize="14" Height="47" Click="UPzakaz_Click" />
+            <Button x:Name="UPzapis" Width="172"
+                Margin="10,10,20,0"
+                Content="Таблица 'UPzapis'"
+                FontSize="14" Height="47" Click="UPzapis_Click" />
+        </StackPanel>
+
+    </Grid>
+</Window>

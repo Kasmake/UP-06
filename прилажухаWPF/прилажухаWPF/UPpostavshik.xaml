@@ -1,0 +1,61 @@
+﻿<Window x:Class="прилажухаWPF.UPpostavshik"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:прилажухаWPF"
+        mc:Ignorable="d"
+        Title="UPpostavshik" Height="450" Width="822">
+    <Grid x:Name="uppostavshik" Loaded="uppostavshik_Loaded">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <DataGrid   HorizontalAlignment="Left" Height="400" Margin="10,10,0,0" VerticalAlignment="Top" Width="601" AutoGenerateColumns="False" x:Name="dataGrid" SelectionChanged="dataGrid_SelectionChanged">
+            <DataGrid.Columns>
+                <DataGridTextColumn Binding="{Binding id_postavshika}" Header="id_postavshika" Width="100"/>
+                <DataGridTextColumn Binding="{Binding KompanyName}" Header="KompanyName" Width="100"/>
+                <DataGridTextColumn Binding="{Binding KontactLico}" Header="KontactLico" Width="100"/>
+                <DataGridTextColumn Binding="{Binding Adres}" Header="Adres" Width="100"/>
+                <DataGridTextColumn Binding="{Binding Tel}" Header="Tel" Width="100"/>
+                <DataGridTextColumn Binding="{Binding Mail}" Header="Mail" Width="100"/>
+            </DataGrid.Columns>
+        </DataGrid>
+        <StackPanel x:Name="Grid2"
+                Width="219"
+                MinWidth="5"
+                Margin="0,10,0,12"
+                HorizontalAlignment="Right"
+                RenderTransformOrigin="1.549,0.487">
+            <Label Content="Колонка - KompanyName" HorizontalAlignment="Center" Margin="0 0 0 0"/>
+            <TextBox x:Name="KompanyName" Width="100" Height="20" Margin="0 0 0 10" Text="KompanyName"/>
+
+            <Label Content="Колонка - KontactLico" HorizontalAlignment="Center" Margin="0 0 0 0"/>
+            <TextBox x:Name="KontactLico" Width="100" Height="20" Margin="0 0 0 10" Text="KontactLico"/>
+
+            <Label Content="Колонка - Adres" HorizontalAlignment="Center" Margin="0 0 0 0"/>
+            <TextBox x:Name="Adres" Width="100" Height="20" Margin="0 0 0 10" Text="Adres"/>
+
+            <Label Content="Колонка - Tel" HorizontalAlignment="Center" Margin="0 0 0 0"/>
+            <TextBox x:Name="Tel" Width="100" Height="20" Margin="0 0 0 10" Text="Tel"/>
+
+            <Label Content="Колонка - Mail" HorizontalAlignment="Center" Margin="0 0 0 0"/>
+            <TextBox x:Name="Mail" Width="100" Height="20" Margin="0 0 0 10" Text="Mail"/>
+
+
+            <Button x:Name="addButton" Width="142"
+                    Margin="10,10,20,0"
+                    Content="Добавить запись"
+                    FontSize="14" Click="addButton_Click" />
+
+            <Button x:Name="insertButton" Width="142"
+                    Margin="10,10,20,0"
+                    Click="insertButton_Click"
+                    Content="Изменить запись"
+                    FontSize="14" />
+
+            <Button x:Name="deleteButton" Margin="10,10,20,0"
+                    Click="deleteButton_Click"
+                    FontSize="14" Content="Удалить запись" Width="144"/>
+        </StackPanel>
+    </Grid>
+</Window>

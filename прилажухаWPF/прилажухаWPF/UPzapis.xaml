@@ -1,0 +1,74 @@
+﻿<Window x:Class="прилажухаWPF.UPzapis"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:прилажухаWPF"
+        mc:Ignorable="d"
+        Title="UPzapis" Height="752" Width="1596" Loaded="Window_Loaded">
+    <Grid>
+        <DataGrid   HorizontalAlignment="Left" Height="714" Margin="10,10,0,0" VerticalAlignment="Top" Width="1252" AutoGenerateColumns="False" x:Name="dataGrid" SelectionChanged="dataGrid_SelectionChanged">
+            <DataGrid.Columns>
+                <DataGridTextColumn Binding="{Binding id_zapisi}" Header="id_zapisi" Width="100"/>
+                <DataGridTextColumn Binding="{Binding id_postavshika}" Header="id_postavshika" Width="100"/>
+                <DataGridTextColumn Binding="{Binding id_avtor}" Header="id_avtor" Width="100"/>
+                <DataGridTextColumn Binding="{Binding id_vidjanra}" Header="id_vidjanra" Width="100"/>
+                <DataGridTextColumn Binding="{Binding id_vidNositelya}" Header="id_vidNositelya" Width="100"/>
+                <DataGridTextColumn Binding="{Binding Nazvanie}" Header="Nazvanie" Width="100"/>
+                <DataGridTextColumn Binding="{Binding Cena}" Header="Cena" Width="100"/>
+                <DataGridTextColumn Binding="{Binding OptovayaCena}" Header="OptovayaCena" Width="100"/>
+                <DataGridTextColumn Binding="{Binding GodVipuska}" Header="GodVipuska" Width="100"/>
+                <DataGridTextColumn Binding="{Binding KolichestvoVnalichii}" Header="KolichestvoVnalichii" Width="100"/>
+                <DataGridTextColumn Binding="{Binding Proizvoditel}" Header="Nazvanie" Width="100"/>
+                <DataGridTextColumn Binding="{Binding Prodano}" Header="Prodano" Width="100"/>
+            </DataGrid.Columns>
+        </DataGrid>
+        <StackPanel x:Name="Grid2"
+            Width="329"
+            MinWidth="5"
+            Margin="1267,10,0,12"
+            HorizontalAlignment="Left"
+            RenderTransformOrigin="1.549,0.487">
+            <Label Content="Колонка - id_postavshika" HorizontalAlignment="Center" Margin="0 0 0 0"/>
+            <TextBox x:Name="id_postavshika" Width="100" Height="20" Margin="0 0 0 10" Text="id_postavshika"/>
+
+            <Label Content="Колонка - id_avtor" HorizontalAlignment="Center" Margin="0 0 0 0"/>
+            <TextBox x:Name="id_avtor" Width="100" Height="20" Margin="0 0 0 10" Text="id_avtor"/>
+
+            <Label Content="Колонка - id_vidjanra" HorizontalAlignment="Center" Margin="0 0 0 0"/>
+            <TextBox x:Name="id_vidjanra" Width="100" Height="20" Margin="0 0 0 10" Text="id_vidjanra"/>
+
+            <Label Content="Колонка - id_vidNositelya" HorizontalAlignment="Center" Margin="0 0 0 0"/>
+            <TextBox x:Name="id_vidNositelya" Width="100" Height="20" Margin="0 0 0 10" Text="id_vidNositelya"/>
+
+            <Label Content="Колонка - Nazvanie" HorizontalAlignment="Center" Margin="0 0 0 0"/>
+            <TextBox x:Name="Nazvanie" Width="100" Height="20" Margin="0 0 0 10" Text="Nazvanie"/>
+
+            <Label Content="Колонка - Cena" HorizontalAlignment="Center" Margin="0 0 0 0"/>
+            <TextBox x:Name="Cena" Width="100" Height="20" Margin="0 0 0 10" Text="Cena"/>
+            <Label Content="Колонка - OptovayaCena" HorizontalAlignment="Center" Margin="0 0 0 0"/>
+            <TextBox x:Name="OptovayaCena" Width="100" Height="20" Margin="0 0 0 10" Text="OptovayaCena"/>
+            <Label Content="Колонка - GodVipuska" HorizontalAlignment="Center" Margin="0 0 0 0"/>
+            <TextBox x:Name="GodVipuska" Width="100" Height="20" Margin="0 0 0 10" Text="GodVipuska"/>
+            <Label Content="Колонка - KolichestvoVnalichii" HorizontalAlignment="Center" Margin="0 0 0 0"/>
+            <TextBox x:Name="KolichestvoVnalichii" Width="100" Height="20" Margin="0 0 0 10" Text="KolichestvoVnalichii"/>
+            <Label Content="Колонка - Proizvoditel" HorizontalAlignment="Center" Margin="0 0 0 0"/>
+            <TextBox x:Name="Proizvoditel" Width="100" Height="20" Margin="0 0 0 10" Text="Proizvoditel"/>
+            <Label Content="Колонка - Prodano" HorizontalAlignment="Center" Margin="0 0 0 0"/>
+            <TextBox x:Name="Prodano" Width="100" Height="20" Margin="0 0 0 10" Text="Prodano"/>
+            <Button x:Name="addButton" Width="142"
+                Margin="10,10,20,0"
+                Content="Добавить запись"
+                FontSize="14" Click="addButton_Click"/>
+
+            <Button x:Name="insertButton" Width="142"
+                Margin="10,10,20,0"
+                Content="Изменить запись"
+                FontSize="14" Click="insertButton_Click" />
+
+            <Button x:Name="deleteButton" Margin="10,10,20,0"
+                FontSize="14" Content="Удалить запись" Width="144" Click="deleteButton_Click"/>
+        </StackPanel>
+
+    </Grid>
+</Window>

@@ -1,0 +1,52 @@
+D:\ИС1-33\Михаил Горшков\ПрилажухаWPF\прилажухаWPF\прилажухаWPF\bin\Debug\прилажухаWPF.exe.config
+D:\ИС1-33\Михаил Горшков\ПрилажухаWPF\прилажухаWPF\прилажухаWPF\bin\Debug\прилажухаWPF.exe
+D:\ИС1-33\Михаил Горшков\ПрилажухаWPF\прилажухаWPF\прилажухаWPF\bin\Debug\прилажухаWPF.pdb
+D:\ИС1-33\Михаил Горшков\ПрилажухаWPF\прилажухаWPF\прилажухаWPF\obj\Debug\прилажухаWPF.csprojAssemblyReference.cache
+D:\ИС1-33\Михаил Горшков\ПрилажухаWPF\прилажухаWPF\прилажухаWPF\obj\Debug\MainWindow.g.cs
+D:\ИС1-33\Михаил Горшков\ПрилажухаWPF\прилажухаWPF\прилажухаWPF\obj\Debug\App.g.cs
+D:\ИС1-33\Михаил Горшков\ПрилажухаWPF\прилажухаWPF\прилажухаWPF\obj\Debug\прилажухаWPF_MarkupCompile.cache
+D:\ИС1-33\Михаил Горшков\ПрилажухаWPF\прилажухаWPF\прилажухаWPF\obj\Debug\прилажухаWPF_MarkupCompile.lref
+D:\ИС1-33\Михаил Горшков\ПрилажухаWPF\прилажухаWPF\прилажухаWPF\obj\Debug\MainWindow.baml
+D:\ИС1-33\Михаил Горшков\ПрилажухаWPF\прилажухаWPF\прилажухаWPF\obj\Debug\прилажухаWPF.g.resources
+D:\ИС1-33\Михаил Горшков\ПрилажухаWPF\прилажухаWPF\прилажухаWPF\obj\Debug\прилажухаWPF.Properties.Resources.resources
+D:\ИС1-33\Михаил Горшков\ПрилажухаWPF\прилажухаWPF\прилажухаWPF\obj\Debug\прилажухаWPF.csproj.GenerateResource.cache
+D:\ИС1-33\Михаил Горшков\ПрилажухаWPF\прилажухаWPF\прилажухаWPF\obj\Debug\прилажухаWPF.exe
+D:\ИС1-33\Михаил Горшков\ПрилажухаWPF\прилажухаWPF\прилажухаWPF\obj\Debug\прилажухаWPF.pdb
+D:\ИС1-33\Михаил Горшков\ПрилажухаWPF\прилажухаWPF\прилажухаWPF\obj\Debug\Avtorization.g.cs
+D:\ИС1-33\Михаил Горшков\ПрилажухаWPF\прилажухаWPF\прилажухаWPF\obj\Debug\Avtorization.baml
+D:\ИС1-33\Михаил Горшков\ПрилажухаWPF\прилажухаWPF\прилажухаWPF\obj\Debug\Panel.g.cs
+D:\ИС1-33\Михаил Горшков\ПрилажухаWPF\прилажухаWPF\прилажухаWPF\obj\Debug\Panel.baml
+C:\Users\kasma\Desktop\Дистант\UP 06\Михаил Горшков\ПрилажухаWPF\прилажухаWPF\прилажухаWPF\obj\Debug\прилажухаWPF.csproj.AssemblyReference.cache
+C:\Users\kasma\Desktop\Дистант\UP 06\Михаил Горшков\ПрилажухаWPF\прилажухаWPF\прилажухаWPF\obj\Debug\прилажухаWPF.csproj.SuggestedBindingRedirects.cache
+C:\Users\kasma\Desktop\Дистант\UP 06\Михаил Горшков\ПрилажухаWPF\прилажухаWPF\прилажухаWPF\obj\Debug\Avtorization.g.cs
+C:\Users\kasma\Desktop\Дистант\UP 06\Михаил Горшков\ПрилажухаWPF\прилажухаWPF\прилажухаWPF\obj\Debug\MainWindow.g.cs
+C:\Users\kasma\Desktop\Дистант\UP 06\Михаил Горшков\ПрилажухаWPF\прилажухаWPF\прилажухаWPF\obj\Debug\Panel.g.cs
+C:\Users\kasma\Desktop\Дистант\UP 06\Михаил Горшков\ПрилажухаWPF\прилажухаWPF\прилажухаWPF\obj\Debug\UPkompany.g.cs
+C:\Users\kasma\Desktop\Дистант\UP 06\Михаил Горшков\ПрилажухаWPF\прилажухаWPF\прилажухаWPF\obj\Debug\App.g.cs
+C:\Users\kasma\Desktop\Дистант\UP 06\Михаил Горшков\ПрилажухаWPF\прилажухаWPF\прилажухаWPF\obj\Debug\прилажухаWPF_MarkupCompile.cache
+C:\Users\kasma\Desktop\Дистант\UP 06\Михаил Горшков\ПрилажухаWPF\прилажухаWPF\прилажухаWPF\obj\Debug\прилажухаWPF_MarkupCompile.lref
+C:\Users\kasma\Desktop\Дистант\UP 06\Михаил Горшков\ПрилажухаWPF\прилажухаWPF\прилажухаWPF\obj\Debug\прилажухаWPF.exe
+C:\Users\kasma\Desktop\Дистант\UP 06\Михаил Горшков\ПрилажухаWPF\прилажухаWPF\прилажухаWPF\obj\Debug\прилажухаWPF.pdb
+C:\Users\kasma\Desktop\Дистант\UP 06\Михаил Горшков\ПрилажухаWPF\прилажухаWPF\прилажухаWPF\bin\Debug\прилажухаWPF.exe.config
+C:\Users\kasma\Desktop\Дистант\UP 06\Михаил Горшков\ПрилажухаWPF\прилажухаWPF\прилажухаWPF\bin\Debug\прилажухаWPF.exe
+C:\Users\kasma\Desktop\Дистант\UP 06\Михаил Горшков\ПрилажухаWPF\прилажухаWPF\прилажухаWPF\bin\Debug\прилажухаWPF.pdb
+C:\Users\kasma\Desktop\Дистант\UP 06\Михаил Горшков\ПрилажухаWPF\прилажухаWPF\прилажухаWPF\obj\Debug\Avtorization.baml
+C:\Users\kasma\Desktop\Дистант\UP 06\Михаил Горшков\ПрилажухаWPF\прилажухаWPF\прилажухаWPF\obj\Debug\MainWindow.baml
+C:\Users\kasma\Desktop\Дистант\UP 06\Михаил Горшков\ПрилажухаWPF\прилажухаWPF\прилажухаWPF\obj\Debug\Panel.baml
+C:\Users\kasma\Desktop\Дистант\UP 06\Михаил Горшков\ПрилажухаWPF\прилажухаWPF\прилажухаWPF\obj\Debug\UPkompany.baml
+C:\Users\kasma\Desktop\Дистант\UP 06\Михаил Горшков\ПрилажухаWPF\прилажухаWPF\прилажухаWPF\obj\Debug\прилажухаWPF.g.resources
+C:\Users\kasma\Desktop\Дистант\UP 06\Михаил Горшков\ПрилажухаWPF\прилажухаWPF\прилажухаWPF\obj\Debug\прилажухаWPF.Properties.Resources.resources
+C:\Users\kasma\Desktop\Дистант\UP 06\Михаил Горшков\ПрилажухаWPF\прилажухаWPF\прилажухаWPF\obj\Debug\прилажухаWPF.csproj.GenerateResource.cache
+C:\Users\kasma\Desktop\Дистант\UP 06\Михаил Горшков\ПрилажухаWPF\прилажухаWPF\прилажухаWPF\obj\Debug\прилажухаWPF.csproj.CoreCompileInputs.cache
+C:\Users\kasma\Desktop\Дистант\UP 06\Михаил Горшков\ПрилажухаWPF\прилажухаWPF\прилажухаWPF\obj\Debug\UPklient.g.cs
+C:\Users\kasma\Desktop\Дистант\UP 06\Михаил Горшков\ПрилажухаWPF\прилажухаWPF\прилажухаWPF\obj\Debug\UPklient.baml
+C:\Users\kasma\Desktop\Дистант\UP 06\Михаил Горшков\ПрилажухаWPF\прилажухаWPF\прилажухаWPF\obj\Debug\UPpostavshik.g.cs
+C:\Users\kasma\Desktop\Дистант\UP 06\Михаил Горшков\ПрилажухаWPF\прилажухаWPF\прилажухаWPF\obj\Debug\UPpostavshik.baml
+C:\Users\kasma\Desktop\Дистант\UP 06\Михаил Горшков\ПрилажухаWPF\прилажухаWPF\прилажухаWPF\obj\Debug\UPvidjanra.g.cs
+C:\Users\kasma\Desktop\Дистант\UP 06\Михаил Горшков\ПрилажухаWPF\прилажухаWPF\прилажухаWPF\obj\Debug\UPvidjanra.baml
+C:\Users\kasma\Desktop\Дистант\UP 06\Михаил Горшков\ПрилажухаWPF\прилажухаWPF\прилажухаWPF\obj\Debug\UPvidnositelya.g.cs
+C:\Users\kasma\Desktop\Дистант\UP 06\Михаил Горшков\ПрилажухаWPF\прилажухаWPF\прилажухаWPF\obj\Debug\UPvidnositelya.baml
+C:\Users\kasma\Desktop\Дистант\UP 06\Михаил Горшков\ПрилажухаWPF\прилажухаWPF\прилажухаWPF\obj\Debug\UPzakaz.g.cs
+C:\Users\kasma\Desktop\Дистант\UP 06\Михаил Горшков\ПрилажухаWPF\прилажухаWPF\прилажухаWPF\obj\Debug\UPzapis.g.cs
+C:\Users\kasma\Desktop\Дистант\UP 06\Михаил Горшков\ПрилажухаWPF\прилажухаWPF\прилажухаWPF\obj\Debug\UPzakaz.baml
+C:\Users\kasma\Desktop\Дистант\UP 06\Михаил Горшков\ПрилажухаWPF\прилажухаWPF\прилажухаWPF\obj\Debug\UPzapis.baml
